@@ -21,4 +21,5 @@ Splitting data is done by speakers 5-5.
 <br>
 Training graph :
 <br>
+
 ![ ]( https://github.com/zvikiNozadze/MASR/blob/master/imgs/acc_graph.png)
