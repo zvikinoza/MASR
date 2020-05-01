@@ -1,5 +1,5 @@
-# MASR
-## Mini Automatic Speech Recognition using Fourier transforms
+# Mini Automatic Speech Recognition 
+## Using Fourier transforms and CNN (VGG like) architecture
 
 ![ ](https://github.com/zvikiNozadze/MASR/blob/master/imgs/number_spectogram.png)
 
