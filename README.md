@@ -1,5 +1,8 @@
 # MASR
 ## Mini Automatic Speech Recognition using Fourier transforms
+
+![ ](https://github.com/zvikiNozadze/MASR/blob/master/imgs/number_spectogram.png)
+
 EDA and modeling on ≈150 samples of sounds speaking numbers form 1 to 5 recorded by 10 people.
 <br>
 <br>Accyracy on large (>10k) dataset: 94%. 
