@@ -2,7 +2,8 @@
 ## Mini Automatic Speech Recognition using Fourier transforms
 EDA and modeling on ≈150 samples of sounds speaking numbers form 1 to 5 recorded by 10 people.
 <br>
-Accyracy on large dataset - 94%, on given small dataset 93% 
+<br>Accyracy on large (>10k) dataset: 94%. 
+<br>Accyracy on given small  dataset: 93% 
 <br>
 Task was more or less chalenging because of small dataset.  
 <br>
