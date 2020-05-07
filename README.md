@@ -5,8 +5,8 @@
 
 EDA and modeling on ≈150 samples of sounds speaking numbers form 1 to 5 recorded by 10 people.
 <br>
-<br>Accyracy on large (>10k) dataset: 94%. 
-<br>Accyracy on given small  dataset: 93% 
+<br>Accuracy on large (>10k) dataset: 94%. 
+<br>Accuracy on given small  dataset: 93% 
 <br>
 Task was more or less chalenging because of small dataset.  
 <br>
